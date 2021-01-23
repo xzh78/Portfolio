@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Xian-Zhi Zhang
+  site_title: Xianzhi Zhang 
   favicon_image: /images/XZZ.png
 
 header_settings:
@@ -57,17 +57,17 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#fbc531'
+  accent_color: '#e67e22'
   border_color: '#dddddd'
-  overlay_background_color: '#fbc531'
-  overlay_text_color: '#ffffff'
+  overlay_background_color: '#ffffff'
+  overlay_text_color: '#333333'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">'
-  title_font: '"Roboto", sans-serif'
-  body_font: '"Ronoto", sans-serif'
+  font_embed: <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+  title_font: '"Source Sans Pro", sans-serif'
+  body_font: '"Source Sans Pro", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
@@ -75,19 +75,19 @@ font_settings:
     medium_size: 30
     large_size: 35
     weight: 700
-    letter_spacing: -0.02
+    letter_spacing: -0.01
   menu:
-    small_size: 30
-    medium_size: 15
-    large_size: 17
-    weight: 600
-    letter_spacing: 0
+    small_size: 13
+    medium_size: 14
+    large_size: 16
+    weight: 500
+    letter_spacing: -0.01
   grid_item_title:
     small_size: 22
-    medium_size: 30
+    medium_size: 28
     large_size: 35
-    weight: 700
-    letter_spacing: -0.02
+    weight: 600
+    letter_spacing: -0.01
   grid_item_subtitle:
     small_size: 15
     medium_size: 17
@@ -137,12 +137,12 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 13
-    medium_size: 15
-    large_size: 17
+    small_size: 12
+    medium_size: 14
+    large_size: 16
     weight: 350
     letter_spacing: 0
-    line_height: 1.5
+    line_height: 1.45
   blockquote:
     small_size: 25
     medium_size: 35

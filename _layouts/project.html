@@ -21,12 +21,14 @@ layout: default
 				</div>
 				
 			</ul>
+			{% if page.collab %}
 			<ul>
 			<!-- <p style="font-size: 90%"> -->
 			<strong>{{ page.collab_title }}:</strong>
 			{{ page.collab }}
 			<!-- </p> -->
 			</ul>
+			{% endif %}
 			<ul>
 			<!-- <p style="font-size: 90%"> -->
 			<strong>{{ page.date | date: "%Y" }}</strong>

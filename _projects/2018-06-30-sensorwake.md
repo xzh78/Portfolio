@@ -2,14 +2,15 @@
 title: 'SensorWake'
 subtitle: 'Olfactory alarm clock'
 subtitle1: 'Designer'
+order: '2'
 date: 2015-06-30 00:00:00
 description: |
   <p>SensorWake challenges the most intimate aspect of our everyday life: how do we wake up in the morning? </p>
   <p>During a student project, I proposed to redesign this olfactory alarm clock for a more gentle, intuitive and intimate wakeup.</p>
 featured_image: '/images/Cover/sensorwake.jpg'
 headline_images: ['/images/Sensorwake/sensorwake.jpg']
-skills: ["concept generation", "3D modeling", "rendering", "conjoint analysis"]
-collab: "Laura Paré"
+skills: ["concept generation", "3D modeling", "rendering", "conjoint analysis", "user research"]
+collab: "<a href='https://www.linkedin.com/in/laupare/' target='_blank'>Laura Paré</a>"
 collab_title: "Collaborator"
 ---
 
