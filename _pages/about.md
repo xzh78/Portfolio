@@ -4,7 +4,7 @@
 <div class="row">
   <div class="col l4">
     <p>
-      <img src="/images/about/Xianzhi.png" alt="Xianzhi Zhang" style="width:300px;">
+      <img src="/images/about/aboutpic.png" alt="Xianzhi Zhang" style="width:300px;">
     </p>
   </div>
   <div class="col l8">
