@@ -2,7 +2,7 @@
 title: 'Withings BPM Connect'
 subtitle: 'Smart blood pressure monitor'
 subtitle1: 'Engineer'
-order: '5'
+order: '6'
 date: 2019-06-30 00:00:00
 description: |
  <p><a href='https://www.withings.com/uk/en/bpm-connect' target='_blank'>Withings BPM Connect</a> is a smart blood pressure monitor that accurately captures systolic and diastolic blood pressure plus heart rate. The compact and intuitive design of BPM Connect makes it easy to monitor blood pressure both at home and on the way.</p>
