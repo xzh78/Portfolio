@@ -2,7 +2,7 @@
 title: 'BrightSide'
 subtitle: 'Chronic condition communication tool'
 subtitle1: 'Designer'
-order: '9.5'
+order: '7'
 date: 2021-01-02 00:00:00
 description: |
     <p>Fibromyalgia is a chronic condition that causes widespread pain and severe fatigue, that has no cure and no explainable onset. Being a parent with fibromyalgia is extremely difficult especially when it comes to communicating their condition to their children.</p>

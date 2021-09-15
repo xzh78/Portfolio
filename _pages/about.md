@@ -9,7 +9,7 @@
   </div>
   <div class="col l8">
     <p>
-      I am a London-based multidisciplinary designer with a background in mechanical engineering and product design. I am currently studying towards the MA/MSc Innovation Design Engineering, at Royal College of Art and Imperial College London. I worked as a product design engineer in Paris prior to my Masters, gaining valuable product design and development experience through sophisticated yet accessible healthcare products. 
+      I am a London-based multidisciplinary designer with a background in mechanical engineering and product design. I have recently completed a double Master’s degree (MA/MSc) in Innovation Design Engineering, at Royal College of Art and Imperial College London. I worked as a product design engineer in Paris prior to my Masters, gaining valuable product design and development experience through sophisticated yet accessible healthcare products. 
     </p>
     <p>
       My unique cross-cultural and cross-functional background have enabled me to become the designer I am today, able to better understand the needs of the users and to approach product ideas with an open-mind. 
